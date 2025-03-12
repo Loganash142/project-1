@@ -1,0 +1,101 @@
+year,course,degree_program,gender,age,race_ethnicity,interest_level
+2020,CIS 100,Computer Science,Man,18 and younger,White/Caucasian,4
+2020,CIS 100,Information Technology,Man,25-34,Hispanic or Latino,3
+2020,CIS 110,Game Development,Man,19-20,White/Caucasian,5
+2020,CIS 115,Computer Science,Woman,21-24,Asian,4
+2020,CIS 110,ShareTime Program,Man,18 and younger,White/Caucasian,3
+2020,CIS 120,Engineering,Man,35-64,Black/African American,4
+2020,CIS 115,Information Technology,Woman,25-34,Hispanic or Latino,3
+2020,CIS 120,Certificate Program,Man,19-20,White/Caucasian,2
+2020,CIS 107,Computer Science,Man,18 and younger,Multi-Racial,5
+2020,CIS 100,Non-Degree,Woman,35-64,Black/African American,2
+2020,CIS 110,Computer Science,Man,21-24,White/Caucasian,5
+2020,CIS 120,Information Technology,Man,18 and younger,Black/African American,3
+2020,CIS 100,Game Development,Man,19-20,White/Caucasian,4
+2020,CIS 110,Computer Science,Woman,25-34,Hispanic or Latino,3
+2020,CIS 107,Engineering,Man,18 and younger,Asian,5
+2020,CIS 107,Computer Science,Man,21-24,White/Caucasian,4
+2020,CIS 100,ShareTime Program,Man,18 and younger,White/Caucasian,3
+2020,CIS 120,Undecided,Woman,25-34,Black/African American,3
+2020,CIS 115,Computer Science,Man,19-20,Asian,4
+2020,CIS 110,Information Technology,Man,35-64,Hispanic or Latino,3
+2021,CIS 100,Computer Science,Man,18 and younger,White/Caucasian,4
+2021,CIS 115,Information Technology,Man,19-20,Black/African American,3
+2021,CIS 110,Game Development,Woman,21-24,White/Caucasian,5
+2021,CIS 107,Computer Science,Man,18 and younger,Hispanic or Latino,4
+2021,CIS 120,ShareTime Program,Man,18 and younger,White/Caucasian,4
+2021,CIS 100,Computer Science,Woman,25-34,Asian,5
+2021,CIS 110,Information Technology,Man,35-64,White/Caucasian,3
+2021,CIS 115,Game Development,Man,19-20,Multi-Racial,4
+2021,CIS 100,Computer Science,Woman,21-24,White/Caucasian,5
+2021,CIS 107,Undecided,Man,18 and younger,Black/African American,3
+2021,CIS 100,Computer Science,Woman,25-34,Hispanic or Latino,4
+2021,CIS 120,Information Technology,Man,19-20,White/Caucasian,3
+2021,CIS 115,Engineering,Man,35-64,Black/African American,4
+2021,CIS 107,Data Analytics/Science,Woman,21-24,Asian,5
+2021,CIS 110,Computer Science,Man,18 and younger,White/Caucasian,4
+2021,CIS 100,ShareTime Program,Non-binary,19-20,Multi-Racial,3
+2021,CIS 120,Computer Science,Man,25-34,White/Caucasian,5
+2021,CIS 110,Information Technology,Woman,18 and younger,Hispanic or Latino,3
+2021,CIS 107,Game Development,Man,21-24,Black/African American,4
+2021,CIS 115,Computer Science,Man,19-20,White/Caucasian,5
+2022,CIS 115,Computer Science,Man,18 and younger,White/Caucasian,4
+2022,CIS 100,Information Technology,Woman,19-20,Black/African American,3
+2022,CIS 107,Game Development,Man,25-34,Hispanic or Latino,5
+2022,CIS 120,ShareTime Program,Man,18 and younger,Asian,4
+2022,CIS 110,Computer Science,Woman,21-24,White/Caucasian,5
+2022,CIS 100,Information Technology,Man,35-64,Black/African American,3
+2022,CIS 115,Engineering,Man,19-20,White/Caucasian,4
+2022,CIS 107,Non-Degree,Woman,25-34,Hispanic or Latino,2
+2022,CIS 120,Computer Science,Man,18 and younger,White/Caucasian,5
+2022,CIS 110,Undecided,Man,21-24,Black/African American,3
+2022,CIS 100,Computer Science,Woman,35-64,Asian,4
+2022,CIS 115,Information Technology,Man,18 and younger,White/Caucasian,3
+2022,CIS 107,Game Development,Woman,19-20,Multi-Racial,5
+2022,CIS 120,Computer Science,Man,25-34,White/Caucasian,4
+2022,CIS 110,Data Analytics/Science,Woman,18 and younger,Hispanic or Latino,3
+2022,CIS 100,Computer Science,Man,21-24,Black/African American,5
+2022,CIS 115,Information Technology,Man,19-20,White/Caucasian,3
+2022,CIS 107,ShareTime Program,Non-binary,25-34,Asian,4
+2022,CIS 120,Computer Science,Man,18 and younger,White/Caucasian,5
+2022,CIS 110,Engineering,Woman,21-24,Hispanic or Latino,4
+2023,CIS 110,Computer Science,Man,18 and younger,White/Caucasian,4
+2023,CIS 107,Information Technology,Woman,19-20,Black/African American,3
+2023,CIS 120,Game Development,Man,25-34,Hispanic or Latino,5
+2023,CIS 115,Computer Science,Man,18 and younger,Asian,4
+2023,CIS 100,ShareTime Program,Woman,21-24,White/Caucasian,3
+2023,CIS 110,Engineering,Man,35-64,Black/African American,4
+2023,CIS 107,Computer Science,Woman,19-20,Hispanic or Latino,5
+2023,CIS 120,Information Technology,Man,25-34,White/Caucasian,3
+2023,CIS 115,Non-Degree,Man,18 and younger,Multi-Racial,2
+2023,CIS 100,Computer Science,Woman,21-24,White/Caucasian,4
+2023,CIS 110,Undecided,Man,35-64,Black/African American,3
+2023,CIS 107,Computer Science,Woman,19-20,Asian,5
+2023,CIS 120,Information Technology,Man,25-34,White/Caucasian,3
+2023,CIS 115,Game Development,Woman,18 and younger,Hispanic or Latino,4
+2023,CIS 100,Computer Science,Man,21-24,White/Caucasian,5
+2023,CIS 110,ShareTime Program,Non-binary,19-20,Black/African American,3
+2023,CIS 107,Engineering,Man,25-34,White/Caucasian,4
+2023,CIS 120,Computer Science,Woman,18 and younger,Hispanic or Latino,5
+2023,CIS 115,Data Analytics/Science,Man,21-24,Asian,3
+2023,CIS 100,Information Technology,Woman,35-64,White/Caucasian,4
+2024,CIS 100,Computer Science,Man,18 and younger,White/Caucasian,5
+2024,CIS 115,Information Technology,Woman,19-20,Black/African American,3
+2024,CIS 107,Game Development,Man,25-34,Hispanic or Latino,4
+2024,CIS 120,Computer Science,Woman,18 and younger,Asian,5
+2024,CIS 110,ShareTime Program,Man,21-24,White/Caucasian,4
+2024,CIS 100,Engineering,Woman,35-64,Black/African American,3
+2024,CIS 115,Computer Science,Man,19-20,White/Caucasian,5
+2024,CIS 107,Information Technology,Woman,25-34,Hispanic or Latino,3
+2024,CIS 120,Non-Degree,Man,18 and younger,Multi-Racial,2
+2024,CIS 110,Computer Science,Woman,21-24,White/Caucasian,5
+2024,CIS 100,Undecided,Man,35-64,Black/African American,3
+2024,CIS 115,Computer Science,Woman,19-20,Asian,4
+2024,CIS 107,Information Technology,Man,25-34,White/Caucasian,3
+2024,CIS 120,Game Development,Woman,18 and younger,Hispanic or Latino,5
+2024,CIS 110,Computer Science,Man,21-24,White/Caucasian,4
+2024,CIS 100,ShareTime Program,Non-binary,19-20,Black/African American,3
+2024,CIS 115,Data Analytics/Science,Man,25-34,Asian,4
+2024,CIS 107,Computer Science,Woman,18 and younger,White/Caucasian,5
+2024,CIS 120,Engineering,Man,21-24,Hispanic or Latino,3
+2024,CIS 110,Information Technology,Woman,35-64,Black/African American,4
